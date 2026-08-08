@@ -5,6 +5,6 @@ Se cargaron 2 grupos :
 ![Heatmap Z0 = 0.0cm](heatmap_eficiencia_rugosidad_n_Z0_0p0cm.png)
 
 ## b) Cuando varia el Material, son 8 materiales
-### Eficiencia Heatmap NaI...PbWO4
-![Heatmap NaI](heatmap_eficiencia_rugosidad_n_Z0_NaI.png).
+### Eficiencia heatmap NaI...PbWO4
+![Heatmap NaI](heatmap_eficiencia_rugosidad_n_z0_NaI.png).
 * 
